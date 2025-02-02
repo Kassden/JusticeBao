@@ -1,4 +1,3 @@
-```markdown
 # JusticeBao: Automated Document Processing & Form Filling
 
 ## Overview
